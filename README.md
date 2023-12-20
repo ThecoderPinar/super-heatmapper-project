@@ -42,11 +42,6 @@ python main_script.py
 
 # 🌈 Examples
 
-Transportation Heatmap
-![Project Logo](logo.jpg)
-
-Heatmap Output
-![Heatmap Output](results/log_files/output_ss.mp4)
 
 
 # 🤝 Contributing
